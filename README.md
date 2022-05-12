@@ -14,7 +14,7 @@
 
 - ❤️ I love writing react, and building fun experiments
 
-- 💬 Ask me about anything [here](https://github.com/mekkinada/exgithub/issues)
+- 💬 Ask me about anything [here](https://github.com/mekkinada/mekkinada/issues)
 
 - ⚡ Fun fact: I love playing computer games, sometimes I make them.
 
