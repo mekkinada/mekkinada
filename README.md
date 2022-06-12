@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey I'm Nada Makki, it's my pleasure duty to bid you all a genial welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center">Hey I'm Nada Makki, it's my pleasure duty to bid you all a genial welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"></h1>
 
 ### 💻 I'm a Full Stack JS developer from Tunisia 
 ![](https://visitor-badge.laobi.icu/badge?page_id=mekkinada) [![Github](https://img.shields.io/github/followers/mekkinada?label=Followers&logo=Github)](https://github.com/mekkinada)
