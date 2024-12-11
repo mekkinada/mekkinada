@@ -9,7 +9,7 @@
 
 ---
 
-## 🧑‍💻 About Me  
+##   About Me  
 - 💼 **Senior QA Automation Tester** at [Esprit](https://esprit.tn/) | Formerly at [Lifespac.es](https://www.lifespac.es/).  
 - 🌱 Currently mastering **ISTQB** and diving deeper into the field of software testing.  
 - ❤️ Passionate about crafting elegant **React.js** applications and exploring innovative development techniques.  
